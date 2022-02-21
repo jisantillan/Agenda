@@ -1,5 +1,5 @@
 # Agenda
-Implementación de una agenda personal en Java utilizando Swing, MySQL, modelo MVC y JasperReports la misma incluye funcionalidades como alta, baja, modificación de contactos, el agregado de localidades y tipo de contacto. A su vez permite realizar reportes acerca diferentes campos de un contacto.
+Implementación de una agenda personal en Java utilizando Swing, MySQL, modelo MVC y JasperReports la misma incluye funcionalidades como alta, baja, modificación de contactos y  agregado de localidades. A su vez permite realizar reportes acerca diferentes campos de un contacto.
 
 
 ## Dependencies
